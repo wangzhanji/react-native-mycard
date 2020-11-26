@@ -1,0 +1,24 @@
+
+{
+  "name": "react-native-mycard",
+  "version": "1.0.0",
+  "description": "A simple component",
+  "main": "Card_100.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+     "type": "git",
+     "url": "https://github.com/wangzhanji/mycard.git"
+   },
+  "keywords": [
+    "react-native",
+    "react-native-mycard"
+  ],
+  "main": "Card_100.js",
+  "author": "wangzhanji",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.60.0"
+  }
+}
